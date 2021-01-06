@@ -1,0 +1,2 @@
+### react-grocery-project
+This app has a form element to input items users desire to get from the grocery store. Alongside, icons to edit and delete items from the list are present. For every action performed, there is a corresponding notification of each execution.
